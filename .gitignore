@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs/DebtManager
+/src/DebtManager.API/obj
+/src/DebtManager.API/bin/Debug/netcoreapp2.2
+/src/DebtManager.Domain/obj
+/src/DebtManager.Domain/bin/Debug/netcoreapp2.2
+/src/DebtManager.Infra.Data/obj
+/src/DebtManager.Infra.Data/bin/Debug/netcoreapp2.2
